@@ -1,0 +1,6 @@
+@tailwind base;
+.bg-dark-1{
+    background-color: darkslategray
+}
+@tailwind components;
+@tailwind utilities;
